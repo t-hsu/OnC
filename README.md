@@ -23,5 +23,5 @@ To navigate:
 - Use rm - to delete a file
 
 To compile:
-- Use gcc "all the files required", can be used with flags..
-- Use clang "executable name" to compile all .c files into executable under current directory
+- Use gcc "all the files required", can be used with flags..(clang can also be used instead of gcc)
+- Use make "executable name" to compile all .c files into executable under current directory
