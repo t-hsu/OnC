@@ -18,7 +18,7 @@ To navigate:
 	0 = ___		1 = __x		2 = _w_		3 = _wx
 	4 = r__		5 = r_x		6 = rw_		7 = rwx
 - Use mkdir - create new directory
-- Use mv - to move a file
+- Use mv - to move a file(mv could also be used to rename a directory, simply type out the whole address of old directory followed address of new directory)
 - Use cp - to create a copy of a file
 - Use rm - to delete a file
 
