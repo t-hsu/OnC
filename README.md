@@ -25,3 +25,9 @@ To navigate:
 To compile:
 - Use gcc "all the files required", can be used with flags..(clang can also be used instead of gcc)
 - Use make "executable name" to compile all .c files into executable under current directory
+
+Using Vim(Text Editor):
+- Type Vim (file name) to enter text editor mode
+- Press i key upon opening the file to edit text file
+- Press esc then :wq to save and quit editing mode
+- Press esc then :q! to quit without saving
